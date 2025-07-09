@@ -1,7 +1,3 @@
-Sure! Here's a **clean, professional, and visually engaging rewrite** of your `README.md` with improved formatting, clarity, and emoji-enhanced sections:
-
----
-
 # 🧠 Brain Tumor Detector
 
 A deep learning–powered web application that detects **brain tumor types** from MRI scans. This tool uses a custom-trained **Convolutional Neural Network (CNN)** to classify MRI images into one of four categories:
